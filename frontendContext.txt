@@ -1,0 +1,22 @@
+Hitchhike Mobile App – Frontend Prompt
+Design and build an interactive, cross-platform mobile application for Hitchhike — a social, reward-driven lift-sharing platform that turns everyday travel into a movement.
+
+The app should feel adventurous, community-driven, and rewarding. Prioritize smooth, gesture-based transitions and fluid animations using Framer Motion or Reanimated. The experience should mimic exploration — playful but purposeful.
+
+Use a visually bold and unconventional color palette — think deep ochre, matte teal, cosmic navy, or sun-faded coral. Avoid generic white/blue themes. The app should feel like a traveler’s passport, not a ride-hailing dashboard.
+
+The UI must be fully responsive, mobile-first, and include:
+
+Welcome + Onboarding screens with swipeable info
+
+Role-based login (Pilot or Hitchhiker) with Firebase Auth
+
+Live Map screen with animated pins and real-time ride data
+
+Reward Dashboard showing progress toward brand-sponsored perks
+
+Ride Cards and Profile Pages with storytelling vibes
+
+Custom Role Toggle Switch and Notification Badges
+
+Use Tailwind-like styling via NativeWind and build modular UI components (Button, Card, Modal). Navigation should be stack-based, with optional bottom tabs for major sections (Home, Rewards, Profile).
