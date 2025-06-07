@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# System-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
