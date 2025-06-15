@@ -109,8 +109,7 @@ npm run dev
 ---
 
 ## 📬 Contact / Issues
-Tag `@backend-dev` in Discord or Notion if stuck
+
 
 ---
 
-Let me know if you want me to generate real file structure zip or route skeletons next!
